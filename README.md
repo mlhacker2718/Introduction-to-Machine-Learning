@@ -6,6 +6,7 @@ Overtime, we have added more detail and expanded certain topics from other cours
 Acknowledgement:
 
 The original tutorial is heavily based on the Machine Learning Specialization and earlier Machine Learning Certificate Course offered by DeepLearning.AI. Please checkout the detials here. https://www.deeplearning.ai/courses/machine-learning-specialization/
+
 Additional materials are added from some older Cousera Machine Learning Course from University Of Washington and University of Michigan
 
 https://www.coursera.org/specializations/machine-learning
